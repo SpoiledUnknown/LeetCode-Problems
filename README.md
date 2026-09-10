@@ -1,4 +1,4 @@
-# LeetCode
+# LeetCode-Problems
 
 My LeetCode solutions, automatically synced to this repository using **LeetHub v2**.
 
