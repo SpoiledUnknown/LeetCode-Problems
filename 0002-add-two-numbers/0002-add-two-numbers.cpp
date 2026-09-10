@@ -12,34 +12,24 @@ class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         ListNode dummy(0);
-        ListNode* current = &dummy;
-
+        ListNode* tail = &dummy;
         int carry = 0;
+        while(l1 || l2 || carry) {
+            int sum = carry;
+            if (l1) { 
+                sum += l1 -> val;
+                l1 = l1 -> next; 
+            }
 
-        while (l1 != nullptr || l2 != nullptr) {
-            int val1 = l1 != nullptr ? l1->val : 0;
-            int val2 = l2 != nullptr ? l2->val : 0;
-
-            int sum = val1 + val2 + carry;
+            if (l2) { 
+                sum += l2 -> val;
+                l2 = l2 -> next; 
+            }
 
             carry = sum / 10;
-
-            current->next = new ListNode(sum % 10);
-            current = current->next;
-
-            if (l1 != nullptr) {
-                l1 = l1->next;
-            }
-
-            if (l2 != nullptr) {
-                l2 = l2->next;
-            }
+            tail -> next = new ListNode(sum%10);
+            tail = tail -> next;
         }
-
-        if (carry != 0) {
-            current->next = new ListNode(carry);
-        }
-
         return dummy.next;
     }
 };
