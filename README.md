@@ -20,3 +20,19 @@ Solutions are automatically added to this repository through **LeetHub v2** when
 * Other languages occasionally
 
 > This repository is mainly for personal practice and tracking my progress.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SpoiledUnknown/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SpoiledUnknown/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SpoiledUnknown/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
