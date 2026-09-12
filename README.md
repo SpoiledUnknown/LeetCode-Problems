@@ -36,4 +36,8 @@ Solutions are automatically added to this repository through **LeetHub v2** when
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SpoiledUnknown/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+## Shell
+|  |
+| ------- |
+| [0192-word-frequency](https://github.com/SpoiledUnknown/LeetCode-Problems/tree/master/0192-word-frequency) |
 <!---LeetCode Topics End-->
