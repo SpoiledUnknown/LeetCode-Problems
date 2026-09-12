@@ -31,6 +31,7 @@ Solutions are automatically added to this repository through **LeetHub v2** when
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SpoiledUnknown/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/SpoiledUnknown/LeetCode-Problems/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
