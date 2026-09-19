@@ -40,4 +40,5 @@ Solutions are automatically added to this repository through **LeetHub v2** when
 |  |
 | ------- |
 | [0192-word-frequency](https://github.com/SpoiledUnknown/LeetCode-Problems/tree/master/0192-word-frequency) |
+| [0193-valid-phone-numbers](https://github.com/SpoiledUnknown/LeetCode-Problems/tree/master/0193-valid-phone-numbers) |
 <!---LeetCode Topics End-->
